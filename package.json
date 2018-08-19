@@ -1,0 +1,22 @@
+{
+  "name": "sofkart",
+  "version": "1.0.0",
+  "description": "This is an ecommerce application for selling software products",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "sreeram",
+  "license": "ISC",
+  "dependencies": {
+    "apidoc": "^0.17.6",
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.3",
+    "helmet": "^3.13.0",
+    "moment": "^2.22.2",
+    "mongoose": "^5.2.8",
+    "pino": "^5.1.1",
+    "shortid": "^2.2.13"
+  }
+}
